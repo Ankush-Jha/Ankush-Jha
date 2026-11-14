@@ -60,6 +60,128 @@ const ankush = {
 ## 🏆 Featured Work
 
 <!-- AUTO:FEATURED:START -->
+> 🤖 Auto-ranked from live GitHub data: code size, stars, forks, docs, live demos, topics and recent activity.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🥇 [Analyst: Local Text-to-SQL Agent](https://github.com/Ankush-Jha/manipal-text2sql-agent)
+**The text-to-SQL agent that shows its work, and knows when to say no.**
+
+100% offline, open-weight (≤8B) agent for messy real-world databases. Understand → Generate → Verify pipeline with candidate voting, calibrated confidence and refusals.
+
+- 🛡️ **0 / 57** RBAC data-leak attacks succeed (down from 75% raw)
+- 💉 **0 / 32** prompt-injection payloads reach the model
+- 🔁 **100%** schema-drift recovery, zero retraining
+- 🧪 117 offline tests · multi-turn & ambiguity eval sets
+
+`Python` `FastAPI` `Qwen3-8B` `Arctic-Text2SQL` `llama.cpp` `SQLite`
+
+<sub>🕒 updated 2026-11-06</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🥈 [Peach Ice Tea: Coding-Agent Harness](https://github.com/Ankush-Jha/peach-ice-tea)
+**One frozen prompt, one unattended run, evidence judges can verify.**
+
+A Rust harness that makes autonomous coding agents trustworthy: test-integrity guard, runtime verify gate, staged context compaction, model failover, doom-loop escalation and evidence bundles.
+
+- ✅ Verify gate: **Kimi 0/6 → 5/6** tasks solved
+- 🔁 Degenerate-reply retry: **Kimi 2/6 → 6/6**
+- 📉 Compact tool docs: **−17.6%** input tokens
+- 🧪 ~2,940 tests · live React trace UI
+
+`Rust` `TypeScript` `React` `LLM Agents`
+
+<sub>🕒 updated 2026-10-24</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🥉 [NavHer: Women&#x27;s Safety &amp; Hygiene](https://github.com/Ankush-Jha/navher)
+**🏆 National Hackathon Winner · Best Social Impact &amp; User-Focused Solution**
+
+SOS requests for emergency pads from nearby people, nearest hospitals & cleanest washrooms with live community updates, and cycle tracking.
+
+[🚀 Live demo →](https://navher-app-wiscon.web.app)
+
+`Flutter` `JavaScript` `Firebase`
+
+<sub>🍴 1 · 🕒 updated 2026-11-06</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏅 [Taraazu: OIML R-76 Report Engine](https://github.com/Ankush-Jha/tulasetu)
+**Smart India Hackathon 2026 · Dept. of Consumer Affairs (SIH26035)**
+
+Deterministic engine that computes legal type-evaluation reports for weighing instruments. The 62-page form is just a rendering. Golden-tested against the standards' own worked examples.
+
+`TypeScript` `Vitest` `React` `Rule Packs`
+
+<sub>🕒 updated 2026-11-06</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏅 [ReLoop: Gamified Circular Economy](https://github.com/Ankush-Jha/reloop-main-app)
+**Scan, trade &amp; upcycle on campus.**
+
+AI item recognition, a ReCoins economy and QR recycling drop-offs, plus a [worker app](https://github.com/Ankush-Jha/reloop-worker-app).
+
+[🚀 Live demo →](https://reloop-main-app-sl5d.vercel.app)
+
+`TypeScript` `React` `Python` `Workers AI`
+
+<sub>🕒 updated 2026-11-04</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏅 [Viva: AI Interview Coach](https://github.com/Ankush-Jha/ai-interview)
+**Upload your notes, get grilled by an AI interviewer.**
+
+Socratic / Examiner / Friendly personas, adaptive difficulty, voice I/O and a neobrutalist UI.
+
+`JavaScript` `LLMs` `Voice AI`
+
+<sub>🍴 1 · 🕒 updated 2026-11-06</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏅 [Newton School for VS Code](https://github.com/Ankush-Jha/hackathon-newton)
+**AI companion inside GitHub Copilot.**
+
+VS Code extension with a zero-config **MCP server**. Ask Copilot about your courses, assignments and schedule.
+
+`TypeScript` `MCP` `VS Code API`
+
+<sub>🕒 updated 2026-11-06</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🏅 [Reloop Worker App](https://github.com/Ankush-Jha/reloop-worker-app)
+**ReLoop Worker App - QR scanning, eco coins, material pricing for recycling workers**
+
+[🚀 Live demo →](https://reloop-worker-app-ten.vercel.app)
+
+`Python`
+
+<sub>🕒 updated 2026-11-04</sub>
+
+</td>
+</tr>
+</table>
 <!-- AUTO:FEATURED:END -->
 
 ---
@@ -111,6 +233,12 @@ const ankush = {
 
 ### 🚢 Recently Shipped
 <!-- AUTO:RECENT:START -->
+- **[navher](https://github.com/Ankush-Jha/navher)** `JavaScript` · NavHer — Navigate Safely, Navigate Freely. A women&#x27;s safety &amp; hygiene Flutter app… <sub>(2026-11-06)</sub>
+- **[tulasetu](https://github.com/Ankush-Jha/tulasetu)** `TypeScript` · Deterministic engine for OIML R-76 NAWI type-evaluation test reports (SIH 2026, PS SIH2603… <sub>(2026-11-06)</sub>
+- **[manipal-text2sql-agent](https://github.com/Ankush-Jha/manipal-text2sql-agent)** `Python` · Local text-to-SQL agent for messy databases: shows its work and knows when to say no <sub>(2026-11-06)</sub>
+- **[hackathon-newton](https://github.com/Ankush-Jha/hackathon-newton)** `TypeScript` <sub>(2026-11-06)</sub>
+- **[ai-interview](https://github.com/Ankush-Jha/ai-interview)** `JavaScript` <sub>(2026-11-06)</sub>
+- **[reloop-main-app](https://github.com/Ankush-Jha/reloop-main-app)** `TypeScript` · ReLoop - Gamified Circular Economy for University Campuses <sub>(2026-11-04)</sub>
 <!-- AUTO:RECENT:END -->
 
 </td>
@@ -118,6 +246,14 @@ const ankush = {
 
 ### ⚡ Latest Activity
 <!-- AUTO:ACTIVITY:START -->
+1. 🔨 Pushed 1 commit to [unnatiasthana/hackmatch_DE_Project_2026](https://github.com/unnatiasthana/hackmatch_DE_Project_2026) <sub>2026-11-11</sub>
+2. ⭐ Starred [zhuyansen/awesome-claude-video-skills](https://github.com/zhuyansen/awesome-claude-video-skills) <sub>2026-11-12</sub>
+3. 🔨 Pushed 1 commit to [Ankush-Jha/tulasetu](https://github.com/Ankush-Jha/tulasetu) <sub>2026-11-06</sub>
+4. 🔨 Pushed 1 commit to [Ankush-Jha/ai-interview](https://github.com/Ankush-Jha/ai-interview) <sub>2026-11-06</sub>
+5. 🔨 Pushed 1 commit to [Ankush-Jha/manipal-text2sql-agent](https://github.com/Ankush-Jha/manipal-text2sql-agent) <sub>2026-11-06</sub>
+6. 🔨 Pushed 1 commit to [Ankush-Jha/hackathon-newton](https://github.com/Ankush-Jha/hackathon-newton) <sub>2026-11-06</sub>
+7. 🔨 Pushed 1 commit to [Ankush-Jha/reloop-main-app](https://github.com/Ankush-Jha/reloop-main-app) <sub>2026-11-04</sub>
+8. ⭐ Starred [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) <sub>2026-11-02</sub>
 <!-- AUTO:ACTIVITY:END -->
 
 </td>
@@ -161,6 +297,7 @@ I'm always up for ambitious problems.
 <a href="https://ankushjha.vercel.app"><img src="https://img.shields.io/badge/See%20my%20work-00D4FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 
 <!-- AUTO:UPDATED:START -->
+<sub>🤖 This profile updates itself. Last refreshed 14 Nov 2026, 09:40 UTC.</sub>
 <!-- AUTO:UPDATED:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
