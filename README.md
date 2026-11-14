@@ -59,100 +59,8 @@ const ankush = {
 
 ## 🏆 Featured Work
 
-> Ranked after reading every repository: engineering depth, real-world impact, testing & evaluation rigor, and polish.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🥇 [Analyst: Local Text-to-SQL Agent](https://github.com/Ankush-Jha/manipal-text2sql-agent)
-**The text-to-SQL agent that shows its work, and knows when to say no.**
-
-100% offline, open-weight (≤8B) agent for messy real-world databases. Understand → Generate → Verify pipeline with candidate voting, calibrated confidence and refusals.
-
-- 🛡️ **0 / 57** RBAC data-leak attacks succeed (down from 75% raw)
-- 💉 **0 / 32** prompt-injection payloads reach the model
-- 🔁 **100%** schema-drift recovery, zero retraining
-- 🧪 117 offline tests · multi-turn & ambiguity eval sets
-
-`Python` `FastAPI` `Qwen3-8B` `Arctic-Text2SQL` `llama.cpp` `SQLite`
-
-</td>
-<td width="50%" valign="top">
-
-### 🥈 [Peach Ice Tea: Coding-Agent Harness](https://github.com/Ankush-Jha/peach-ice-tea)
-**One frozen prompt, one unattended run, evidence judges can verify.**
-
-A Rust harness that makes autonomous coding agents trustworthy: test-integrity guard, runtime verify gate, staged context compaction, model failover, doom-loop escalation, telemetry and signed evidence bundles.
-
-- ✅ Verify gate: **Kimi 0/6 → 5/6** tasks solved
-- 🔁 Degenerate-reply retry: **Kimi 2/6 → 6/6**
-- 📉 Compact tool docs: **−17.6%** input tokens
-- 🧪 ~2,940 tests · live React trace UI
-
-`Rust` `TypeScript` `React` `LLM Agents`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🥉 [Taraazu: OIML R-76 Report Engine](https://github.com/Ankush-Jha/tulasetu)
-**Smart India Hackathon 2026 · Dept. of Consumer Affairs (SIH26035)**
-
-Deterministic engine that computes legal type-evaluation reports for weighing instruments. The 62-page form is just a rendering. Golden-tested against the standards' own worked examples.
-
-`TypeScript` `Vitest` `React` `Rule Packs`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏅 [NavHer: Women's Safety & Hygiene](https://github.com/Ankush-Jha/navher)
-**🏆 National Hackathon Winner · Best Social Impact & User-Focused Solution**
-
-SOS requests for emergency pads from nearby people, nearest hospitals & cleanest washrooms with live community updates, and cycle tracking. [Live app →](https://navher-app-wiscon.web.app)
-
-`Flutter` `JavaScript` `Firebase`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ♻️ [ReLoop: Gamified Circular Economy](https://github.com/Ankush-Jha/reloop-main-app)
-Campus marketplace to scan, trade & upcycle. AI item recognition, ReCoins economy and QR recycling drop-offs, plus a [worker app](https://github.com/Ankush-Jha/reloop-worker-app). [Live demo →](https://reloop-main-app-sl5d.vercel.app)
-
-`TypeScript` `React` `Python` `Workers AI`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 [Viva: AI Interview Coach](https://github.com/Ankush-Jha/ai-interview)
-Upload your notes, get grilled by an AI interviewer. Socratic / Examiner / Friendly personas, adaptive difficulty, voice I/O, neobrutalist UI.
-
-`JavaScript` `LLMs` `Voice AI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧩 [Newton School for VS Code](https://github.com/Ankush-Jha/hackathon-newton)
-VS Code extension with a zero-config **MCP server**. Ask Copilot about your courses, assignments and schedule.
-
-`TypeScript` `MCP` `VS Code API`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌌 [AI Constellation](https://github.com/Ankush-Jha/ai-constellation)
-Drop-in Claude Code multi-agent setup where every agent's work is checked by other agents before it reaches you.
-
-`Claude Code` `Multi-Agent`
-
-</td>
-</tr>
-</table>
+<!-- AUTO:FEATURED:START -->
+<!-- AUTO:FEATURED:END -->
 
 ---
 
@@ -183,13 +91,38 @@ Drop-in Claude Code multi-agent setup where every agent's work is checked by oth
 
 ---
 
-## 📊 GitHub Streak
+## 📊 Live Stats
 
 <div align="center">
+
+<img src="./assets/stats.svg" alt="Live GitHub stats" width="100%"/>
+
+<img src="./assets/languages.svg" alt="Languages across my repos" width="100%"/>
 
 <img src="https://streak-stats.demolab.com?user=Ankush-Jha&theme=tokyonight&hide_border=true&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="80%"/>
 
 </div>
+
+---
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🚢 Recently Shipped
+<!-- AUTO:RECENT:START -->
+<!-- AUTO:RECENT:END -->
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Latest Activity
+<!-- AUTO:ACTIVITY:START -->
+<!-- AUTO:ACTIVITY:END -->
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -226,6 +159,9 @@ I'm always up for ambitious problems.
 
 <a href="https://www.linkedin.com/in/realankushjha"><img src="https://img.shields.io/badge/Let's%20talk%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://ankushjha.vercel.app"><img src="https://img.shields.io/badge/See%20my%20work-00D4FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+
+<!-- AUTO:UPDATED:START -->
+<!-- AUTO:UPDATED:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
