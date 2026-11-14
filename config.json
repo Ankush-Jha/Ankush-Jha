@@ -1,0 +1,98 @@
+{
+  "username": "Ankush-Jha",
+  "featured_count": 8,
+  "recent_count": 6,
+  "activity_count": 8,
+  "language_count": 8,
+  "ignore_languages": [],
+
+  "hidden": [
+    "Ankush-Jha",
+    "Ankush-Jha.github.io",
+    "face-reels-playbook",
+    "ultimate-dashboard",
+    "hypnexis-mail-assets",
+    "testrepos",
+    "snw2",
+    "snwclass1",
+    "iamactionkamen",
+    "dcode-mentor-matching",
+    "reloop-v1",
+    "reloop-v2",
+    "unscraped"
+  ],
+
+  "boost": {
+    "manipal-text2sql-agent": 40,
+    "peach-ice-tea": 36,
+    "tulasetu": 32,
+    "navher": 30,
+    "reloop-main-app": 26,
+    "ai-interview": 22,
+    "hackathon-newton": 18,
+    "ai-constellation": 15
+  },
+
+  "curated": {
+    "manipal-text2sql-agent": {
+      "title": "Analyst: Local Text-to-SQL Agent",
+      "tagline": "The text-to-SQL agent that shows its work, and knows when to say no.",
+      "body": "100% offline, open-weight (≤8B) agent for messy real-world databases. Understand → Generate → Verify pipeline with candidate voting, calibrated confidence and refusals.",
+      "bullets": [
+        "🛡️ **0 / 57** RBAC data-leak attacks succeed (down from 75% raw)",
+        "💉 **0 / 32** prompt-injection payloads reach the model",
+        "🔁 **100%** schema-drift recovery, zero retraining",
+        "🧪 117 offline tests · multi-turn & ambiguity eval sets"
+      ],
+      "stack": ["Python", "FastAPI", "Qwen3-8B", "Arctic-Text2SQL", "llama.cpp", "SQLite"]
+    },
+    "peach-ice-tea": {
+      "title": "Peach Ice Tea: Coding-Agent Harness",
+      "tagline": "One frozen prompt, one unattended run, evidence judges can verify.",
+      "body": "A Rust harness that makes autonomous coding agents trustworthy: test-integrity guard, runtime verify gate, staged context compaction, model failover, doom-loop escalation and evidence bundles.",
+      "bullets": [
+        "✅ Verify gate: **Kimi 0/6 → 5/6** tasks solved",
+        "🔁 Degenerate-reply retry: **Kimi 2/6 → 6/6**",
+        "📉 Compact tool docs: **−17.6%** input tokens",
+        "🧪 ~2,940 tests · live React trace UI"
+      ],
+      "stack": ["Rust", "TypeScript", "React", "LLM Agents"]
+    },
+    "tulasetu": {
+      "title": "Taraazu: OIML R-76 Report Engine",
+      "tagline": "Smart India Hackathon 2026 · Dept. of Consumer Affairs (SIH26035)",
+      "body": "Deterministic engine that computes legal type-evaluation reports for weighing instruments. The 62-page form is just a rendering. Golden-tested against the standards' own worked examples.",
+      "stack": ["TypeScript", "Vitest", "React", "Rule Packs"]
+    },
+    "navher": {
+      "title": "NavHer: Women's Safety & Hygiene",
+      "tagline": "🏆 National Hackathon Winner · Best Social Impact & User-Focused Solution",
+      "body": "SOS requests for emergency pads from nearby people, nearest hospitals & cleanest washrooms with live community updates, and cycle tracking.",
+      "stack": ["Flutter", "JavaScript", "Firebase"]
+    },
+    "reloop-main-app": {
+      "title": "ReLoop: Gamified Circular Economy",
+      "tagline": "Scan, trade & upcycle on campus.",
+      "body": "AI item recognition, a ReCoins economy and QR recycling drop-offs, plus a [worker app](https://github.com/Ankush-Jha/reloop-worker-app).",
+      "stack": ["TypeScript", "React", "Python", "Workers AI"]
+    },
+    "ai-interview": {
+      "title": "Viva: AI Interview Coach",
+      "tagline": "Upload your notes, get grilled by an AI interviewer.",
+      "body": "Socratic / Examiner / Friendly personas, adaptive difficulty, voice I/O and a neobrutalist UI.",
+      "stack": ["JavaScript", "LLMs", "Voice AI"]
+    },
+    "hackathon-newton": {
+      "title": "Newton School for VS Code",
+      "tagline": "AI companion inside GitHub Copilot.",
+      "body": "VS Code extension with a zero-config **MCP server**. Ask Copilot about your courses, assignments and schedule.",
+      "stack": ["TypeScript", "MCP", "VS Code API"]
+    },
+    "ai-constellation": {
+      "title": "AI Constellation",
+      "tagline": "Agents that check each other's work.",
+      "body": "Drop-in Claude Code multi-agent setup where every agent's output is reviewed by other agents before it reaches you.",
+      "stack": ["Claude Code", "Multi-Agent"]
+    }
+  }
+}
