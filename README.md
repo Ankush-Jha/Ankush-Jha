@@ -183,18 +183,11 @@ Drop-in Claude Code multi-agent setup where every agent's work is checked by oth
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Ankush-Jha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=00d4ff&include_all_commits=true&count_private=true&rank_icon=github"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush-Jha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&langs_count=8"/>
-
-<img src="https://streak-stats.demolab.com?user=Ankush-Jha&theme=tokyonight&hide_border=true&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="70%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ankush-Jha&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d4ff&line=302b63&point=ffffff&area=true" width="100%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ankush-Jha&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=Ankush-Jha&theme=tokyonight&hide_border=true&background=0d1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="80%"/>
 
 </div>
 
