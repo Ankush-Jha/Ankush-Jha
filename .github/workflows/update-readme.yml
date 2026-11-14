@@ -1,0 +1,48 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"   # every 6 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - config.json
+      - scripts/**
+      - .github/workflows/update-readme.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Regenerate README and stat cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+        run: python scripts/update_readme.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "readme-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/stats.svg assets/languages.svg
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: auto-update README [skip ci]"
+            git pull --rebase
+            git push
+          fi
