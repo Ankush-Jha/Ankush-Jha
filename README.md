@@ -95,7 +95,7 @@ A Rust harness that makes autonomous coding agents trustworthy: test-integrity g
 
 `Rust` `TypeScript` `React` `LLM Agents`
 
-<sub>🕒 updated 2026-10-24</sub>
+<sub>🕒 updated 2026-11-21</sub>
 
 </td>
 </tr>
@@ -233,12 +233,12 @@ VS Code extension with a zero-config **MCP server**. Ask Copilot about your cour
 
 ### 🚢 Recently Shipped
 <!-- AUTO:RECENT:START -->
+- **[peach-ice-tea](https://github.com/Ankush-Jha/peach-ice-tea)** `Rust` · Peach Ice Tea: a coding-agent harness <sub>(2026-11-21)</sub>
 - **[navher](https://github.com/Ankush-Jha/navher)** `JavaScript` · NavHer — Navigate Safely, Navigate Freely. A women&#x27;s safety &amp; hygiene Flutter app… <sub>(2026-11-06)</sub>
 - **[tulasetu](https://github.com/Ankush-Jha/tulasetu)** `TypeScript` · Deterministic engine for OIML R-76 NAWI type-evaluation test reports (SIH 2026, PS SIH2603… <sub>(2026-11-06)</sub>
 - **[manipal-text2sql-agent](https://github.com/Ankush-Jha/manipal-text2sql-agent)** `Python` · Local text-to-SQL agent for messy databases: shows its work and knows when to say no <sub>(2026-11-06)</sub>
 - **[hackathon-newton](https://github.com/Ankush-Jha/hackathon-newton)** `TypeScript` <sub>(2026-11-06)</sub>
 - **[ai-interview](https://github.com/Ankush-Jha/ai-interview)** `JavaScript` <sub>(2026-11-06)</sub>
-- **[reloop-main-app](https://github.com/Ankush-Jha/reloop-main-app)** `TypeScript` · ReLoop - Gamified Circular Economy for University Campuses <sub>(2026-11-04)</sub>
 <!-- AUTO:RECENT:END -->
 
 </td>
@@ -297,7 +297,7 @@ I'm always up for ambitious problems.
 <a href="https://ankushjha.vercel.app"><img src="https://img.shields.io/badge/See%20my%20work-00D4FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 
 <!-- AUTO:UPDATED:START -->
-<sub>🤖 This profile updates itself. Last refreshed 20 Nov 2026, 20:18 UTC.</sub>
+<sub>🤖 This profile updates itself. Last refreshed 21 Nov 2026, 07:06 UTC.</sub>
 <!-- AUTO:UPDATED:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
