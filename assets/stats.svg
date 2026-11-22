@@ -14,13 +14,13 @@
 <rect width="820" height="230" rx="16" fill="url(#bg)" stroke="#00d4ff" stroke-opacity=".25"/>
 
 <text x="28" y="40" class="t">⚡ LIVE GITHUB STATS</text>
-<text x="792" y="40" class="l" text-anchor="end">updated 21 Nov 2026</text>
+<text x="792" y="40" class="l" text-anchor="end">updated 22 Nov 2026</text>
 <g class="f" style="animation-delay:0.00s"><rect x="28" y="62" width="246" height="66" rx="12" fill="#ffffff" fill-opacity=".04" stroke="url(#ac)" stroke-opacity=".5"/><text x="46" y="100" class="v">1,153</text><text x="46" y="118" class="l">Contributions (1y)</text></g>
 <g class="f" style="animation-delay:0.12s"><rect x="290" y="62" width="246" height="66" rx="12" fill="#ffffff" fill-opacity=".04" stroke="url(#ac)" stroke-opacity=".5"/><text x="308" y="100" class="v">1,006</text><text x="308" y="118" class="l">Commits (1y)</text></g>
 <g class="f" style="animation-delay:0.24s"><rect x="552" y="62" width="246" height="66" rx="12" fill="#ffffff" fill-opacity=".04" stroke="url(#ac)" stroke-opacity=".5"/><text x="570" y="100" class="v">69</text><text x="570" y="118" class="l">Pull Requests</text></g>
 <g class="f" style="animation-delay:0.36s"><rect x="28" y="142" width="246" height="66" rx="12" fill="#ffffff" fill-opacity=".04" stroke="url(#ac)" stroke-opacity=".5"/><text x="46" y="180" class="v">14</text><text x="46" y="198" class="l">Public Repos</text></g>
 <g class="f" style="animation-delay:0.48s"><rect x="290" y="142" width="246" height="66" rx="12" fill="#ffffff" fill-opacity=".04" stroke="url(#ac)" stroke-opacity=".5"/><text x="308" y="180" class="v">5</text><text x="308" y="198" class="l">Live Demos</text></g>
 <g class="f" style="animation-delay:0.60s"><rect x="552" y="142" width="246" height="66" rx="12" fill="#ffffff" fill-opacity=".04" stroke="url(#ac)" stroke-opacity=".5"/><text x="570" y="180" class="v">0d</text><text x="570" y="198" class="l">Current Streak</text></g>
-<polyline points="330.0,44.0 339.6,44.0 349.2,44.0 358.8,44.0 368.4,44.0 378.0,44.0 387.6,43.4 397.2,43.9 406.8,44.0 416.4,43.7 426.0,44.0 435.6,44.0 445.2,44.0 454.8,44.0 464.4,44.0 474.0,44.0 483.6,44.0 493.2,24.0 502.8,29.6 512.4,44.0 522.0,41.1 531.6,42.3 541.2,43.9 550.8,43.0 560.4,43.3 570.0,44.0" fill="none" stroke="url(#ac)" stroke-width="2" stroke-linejoin="round" opacity=".9"/>
+<polyline points="330.0,44.0 339.6,44.0 349.2,44.0 358.8,44.0 368.4,44.0 378.0,43.4 387.6,43.9 397.2,44.0 406.8,43.7 416.4,44.0 426.0,44.0 435.6,44.0 445.2,44.0 454.8,44.0 464.4,44.0 474.0,44.0 483.6,24.0 493.2,29.6 502.8,44.0 512.4,41.1 522.0,42.3 531.6,43.9 541.2,43.0 550.8,43.3 560.4,44.0 570.0,44.0" fill="none" stroke="url(#ac)" stroke-width="2" stroke-linejoin="round" opacity=".9"/>
 <text x="570" y="57" class="l" text-anchor="end" style="font-size:10px">last 26 weeks</text>
 </svg>
