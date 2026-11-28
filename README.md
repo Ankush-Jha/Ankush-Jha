@@ -66,7 +66,24 @@ const ankush = {
 <tr>
 <td width="50%" valign="top">
 
-### 🥇 [Analyst: Local Text-to-SQL Agent](https://github.com/Ankush-Jha/manipal-text2sql-agent)
+### 🥇 [Peach Ice Tea: Coding-Agent Harness](https://github.com/Ankush-Jha/peach-ice-tea)
+**One frozen prompt, one unattended run, evidence judges can verify.**
+
+A Rust harness that makes autonomous coding agents trustworthy: test-integrity guard, runtime verify gate, staged context compaction, model failover, doom-loop escalation and evidence bundles.
+
+- ✅ Verify gate: **Kimi 0/6 → 5/6** tasks solved
+- 🔁 Degenerate-reply retry: **Kimi 2/6 → 6/6**
+- 📉 Compact tool docs: **−17.6%** input tokens
+- 🧪 ~2,940 tests · live React trace UI
+
+`Rust` `TypeScript` `React` `LLM Agents`
+
+<sub>🕒 updated 2026-11-28</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🥈 [Analyst: Local Text-to-SQL Agent](https://github.com/Ankush-Jha/manipal-text2sql-agent)
 **The text-to-SQL agent that shows its work, and knows when to say no.**
 
 100% offline, open-weight (≤8B) agent for messy real-world databases. Understand → Generate → Verify pipeline with candidate voting, calibrated confidence and refusals.
@@ -79,23 +96,6 @@ const ankush = {
 `Python` `FastAPI` `Qwen3-8B` `Arctic-Text2SQL` `llama.cpp` `SQLite`
 
 <sub>🕒 updated 2026-11-06</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### 🥈 [Peach Ice Tea: Coding-Agent Harness](https://github.com/Ankush-Jha/peach-ice-tea)
-**One frozen prompt, one unattended run, evidence judges can verify.**
-
-A Rust harness that makes autonomous coding agents trustworthy: test-integrity guard, runtime verify gate, staged context compaction, model failover, doom-loop escalation and evidence bundles.
-
-- ✅ Verify gate: **Kimi 0/6 → 5/6** tasks solved
-- 🔁 Degenerate-reply retry: **Kimi 2/6 → 6/6**
-- 📉 Compact tool docs: **−17.6%** input tokens
-- 🧪 ~2,940 tests · live React trace UI
-
-`Rust` `TypeScript` `React` `LLM Agents`
-
-<sub>🕒 updated 2026-11-21</sub>
 
 </td>
 </tr>
@@ -231,10 +231,10 @@ VS Code extension with a zero-config **MCP server**. Ask Copilot about your cour
 
 ### 🚢 Recently Shipped
 <!-- AUTO:RECENT:START -->
+- **[peach-ice-tea](https://github.com/Ankush-Jha/peach-ice-tea)** `Rust` · Peach Ice Tea: a coding-agent harness <sub>(2026-11-28)</sub>
 - **[studio](https://github.com/Ankush-Jha/studio)** `JavaScript` · Studio: one-line brief to finished, on-brand Instagram reels, carousels and statics, made … <sub>(2026-11-26)</sub>
 - **[studio-films](https://github.com/Ankush-Jha/studio-films)** · Demo films for the SuperKreatives Studio Film Directory (served by GitHub Pages) <sub>(2026-11-26)</sub>
 - **[studio-clients](https://github.com/Ankush-Jha/studio-clients)** `Python` · Private client data and track record for Studio <sub>(2026-11-26)</sub>
-- **[peach-ice-tea](https://github.com/Ankush-Jha/peach-ice-tea)** `Rust` · Peach Ice Tea: a coding-agent harness <sub>(2026-11-21)</sub>
 - **[navher](https://github.com/Ankush-Jha/navher)** `JavaScript` · NavHer — Navigate Safely, Navigate Freely. A women&#x27;s safety &amp; hygiene Flutter app… <sub>(2026-11-06)</sub>
 - **[tulasetu](https://github.com/Ankush-Jha/tulasetu)** `TypeScript` · Deterministic engine for OIML R-76 NAWI type-evaluation test reports (SIH 2026, PS SIH2603… <sub>(2026-11-06)</sub>
 <!-- AUTO:RECENT:END -->
@@ -295,7 +295,7 @@ I'm always up for ambitious problems.
 <a href="https://ankushjha.vercel.app"><img src="https://img.shields.io/badge/See%20my%20work-00D4FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 
 <!-- AUTO:UPDATED:START -->
-<sub>🤖 This profile updates itself. Last refreshed 27 Nov 2026, 21:16 UTC.</sub>
+<sub>🤖 This profile updates itself. Last refreshed 28 Nov 2026, 07:47 UTC.</sub>
 <!-- AUTO:UPDATED:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
